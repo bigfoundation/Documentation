@@ -4,17 +4,17 @@ BIG (Basic Income Guarantee) is a concept of unconditional basic income implemen
 
 ### Content
 
-* **Unconditional Basic Income concept**
-    - Background
-    * Basics Concept
-- **Blockchain and Basic Income Guarantee**
-  * The Goal of BIG
-* **Economic model of BIG**
-    - Blockchain
-    * Currency and Issue
-- **Roadmap**
-- **Conclusion**
-- **References**
+* **[Unconditional Basic Income concept](#unconditional-basic-income-concept)**
+    - [Background](#background)
+    * [Basics Concept](#basics-concept)
+- **[Blockchain and Basic Income Guarantee](#blockchain-and-basic-income-guarantee)**
+  * [The Goal of BIG](#the-goal-of-big)
+* **[Economic model of BIG](#economic-model-of-big)**
+    - [Blockchain](#blockchain)
+    * [Currency and Issue](#currency-and-issue)
+- **[Roadmap](#roadmap)**
+- **[Conclusion](#conclusion)**
+- **[References](#references)**
 
 
 ### Unconditional Basic Income concept
