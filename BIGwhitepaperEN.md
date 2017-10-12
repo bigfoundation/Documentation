@@ -19,15 +19,15 @@ BIG (Basic Income Guarantee) is a concept of unconditional basic income implemen
 
 ### Unconditional Basic Income concept
 
-A basic income (also called basic income guarantee, Citizen's Income, unconditional basic income, universal basic income (UBI), or universal demogrant) is a form of social security in which all citizens or residents of a country receive a regular, unconditional sum of money, either from a government or some other public institution, independent of any other income.[<sup>[1]</sup>]()[<sup>[2]</sup>]()[<sup>[3]</sup>]() An unconditional income transfer that is considered insufficient to meet a person's basic needs (or below the poverty line), is sometimes called a partial basic income, while one at or greater than that level is sometimes called a full basic income.
+A basic income (also called basic income guarantee, Citizen's Income, unconditional basic income, universal basic income (UBI), or universal demogrant) is a form of social security in which all citizens or residents of a country receive a regular, unconditional sum of money, either from a government or some other public institution, independent of any other income.[<sup>[1]</sup>](#references)[<sup>[2]</sup>](#references)[<sup>[3]</sup>](#references) An unconditional income transfer that is considered insufficient to meet a person's basic needs (or below the poverty line), is sometimes called a *partial basic income*, while one at or greater than that level is sometimes called a *full* basic income.
 
 A basic income is an income unconditionally paid by the government to every individual regardless of whether they work and irrespective of any other sources of income. It replaces other social security payments and is high enough to cover all basic needs (food, housing etc.).
 
-Basic income systems that are financed by the profits of publicly owned enterprises (often called social dividend, also known as citizen's dividend) are major components in many proposed models of market socialism.[<sup>[4]</sup>]() Basic income schemes have also been promoted within the context of capitalist systems, where they would be financed through various forms of taxation.[<sup>[5]</sup>]()
+Basic income systems that are financed by the profits of publicly owned enterprises (often called social dividend, also known as citizen's dividend) are major components in many proposed models of market socialism.[<sup>[4]</sup>](#references) Basic income schemes have also been promoted within the context of capitalist systems, where they would be financed through various forms of taxation.[<sup>[5]</sup>](#references)
 
-Similar proposals for "capital grants provided at the age of majority" date to Thomas Paine's Agrarian Justice of 1795, there paired with asset-based egalitarianism. The phrase "social dividend" was commonly used as a synonym for basic income in the English-speaking world before 1986, after which the phrase "basic income" gained widespread currency.[<sup>[6]</sup>]()
+Similar proposals for "capital grants provided at the age of majority" date to Thomas Paine's *Agrarian Justice* of 1795, there paired with asset-based egalitarianism. The phrase "social dividend" was commonly used as a synonym for basic income in the English-speaking world before 1986, after which the phrase "basic income" gained widespread currency.[<sup>[6]</sup>](#references)
 
-Prominent advocates of the concept include André Gorz, Ailsa McKay,[<sup>[7]</sup>]() Guy Standing, Karl Widerquist, Hillel Steiner, Peter Vallentyne and Philippe Van Parijs.[<sup>[8]</sup>]()[<sup>[9]</sup>]()
+Prominent advocates of the concept include André Gorz, Ailsa McKay,[<sup>[7]</sup>](#references) Guy Standing, Karl Widerquist, Hillel Steiner, Peter Vallentyne and Philippe Van Parijs.[<sup>[8]</sup>](#references)[<sup>[9]</sup>](#references)
 
 What do Europeans think about basic income?
 Key insights from the basic income survey took place in March and April 2016 (10,000 Europeans across 28 EU countries):
@@ -37,20 +37,20 @@ Key insights from the basic income survey took place in March and April 2016 (10
    - Europeans who said they were aware of basic income were also more likely to report that they would vote for it;
    - The biggest hopes associated with introducing basic income: less financial anxiety and more equality of opportunity;
    - The biggest fears associated with introducing basic income: people would stop working and foreigners would come to their country to take advantage;
-   - Only 4% of Europeans reported that the most likely effect of basic income on their work choices would be to stop working.[<sup>[10]</sup>]()
+   - Only 4% of Europeans reported that the most likely effect of basic income on their work choices would be to stop working.[<sup>[10]</sup>](#references)
 
 
 #### Background
 
-The idea of a basic income guaranteed by the government dates back to the 16th century: we see it in "Utopia" by Thomas More[<sup>[11]</sup>](). For the first time in the modern history the idea of unconditional income was expounded at the end of the 18th century in Thomas Paine's works and the Marquis de Condorcet[<sup>[12]</sup>](). So, in his treatise "Agrarian Justice" (written in 1795-1796, published 1797) Th. Paine considered the possibility of a one-time payment of minimum income to all people over 21 years of age from taxes on landowners.
+The idea of a basic income guaranteed by the government dates back to the 16th century: we see it in "Utopia" by Thomas More[<sup>[11]</sup>](#references). For the first time in the modern history the idea of unconditional income was expounded at the end of the 18th century in Thomas Paine's works and the Marquis de Condorcet[<sup>[12]</sup>](#references). So, in his treatise "Agrarian Justice" (written in 1795-1796, published 1797) Th. Paine considered the possibility of a one-time payment of minimum income to all people over 21 years of age from taxes on landowners.
 
 The concept of citizen’s dividends received broad support after the idea presented by British Major Clifford Douglas that each citizen owns a share of national wealth (social credit). During the crisis and unemployment of the 1930s, the idea developed into a national movement that participated in elections in many countries. The party received the greatest support in Canada (see the British Columbia Social Credit Party). The idea of an unconditional basic income was buried by the supporters of Keynesianism, which strengthened the role of the state.
 
-The closest to the implementation was the proposal of the liberal politician Juliette Ris-Williams in the UK in 1943. But in the end, the British system of social support was built on the ideas of William Beveridge, providing for certain conditions (experience, salary, etc.). Similar models were implemented in most developed Western countries. Some well-known economists, such as Milton Friedman and Friedrich von Hayek, considered unconditional basic income to be the best way to fight poverty[<sup>[13]</sup>]().
+The closest to the implementation was the proposal of the liberal politician Juliette Ris-Williams in the UK in 1943. But in the end, the British system of social support was built on the ideas of William Beveridge, providing for certain conditions (experience, salary, etc.). Similar models were implemented in most developed Western countries. Some well-known economists, such as Milton Friedman and Friedrich von Hayek, considered unconditional basic income to be the best way to fight poverty[<sup>[13]</sup>](#references).
 
-In Canada in 1985, the liberal government proposed to introduce a negative tax, but the conservatives who came to power considered the proposal too expensive, and it remained unfulfilled. British economists Guy Standing and Hermione Parker developed various models for the implementation of unconditional basic income. Specific calculations of Parker influenced the existing models in Europe. These models are proposed for adoption in the UK, but have not received political support[<sup>[14]</sup>]().
+In Canada in 1985, the liberal government proposed to introduce a negative tax, but the conservatives who came to power considered the proposal too expensive, and it remained unfulfilled. British economists Guy Standing and Hermione Parker developed various models for the implementation of unconditional basic income. Specific calculations of Parker influenced the existing models in Europe. These models are proposed for adoption in the UK, but have not received political support[<sup>[14]</sup>](#references).
 
-At the moment, politicians, economists and sociologists in different countries discuss the possibility of various models of guaranteed minimum. Suzanne Wiest, for example, suggests an automatic monthly increase of the bank account of every German citizen by 1500 euros for every adult and 1000 euros for every child.[<sup>[15]</sup>]() Professor at the Vienna University of Economics Franz Hörmann, considers unconditional income to be also necessary in the form of a minimum set of goods and services[<sup>[16]</sup>]().
+At the moment, politicians, economists and sociologists in different countries discuss the possibility of various models of guaranteed minimum. Suzanne Wiest, for example, suggests an automatic monthly increase of the bank account of every German citizen by 1500 euros for every adult and 1000 euros for every child.[<sup>[15]</sup>](#references) Professor at the Vienna University of Economics Franz Hörmann, considers unconditional income to be also necessary in the form of a minimum set of goods and services[<sup>[16]</sup>](#references).
 
 
 #### Basics Concept
@@ -129,13 +129,13 @@ After the implementation of the BIG blockchain, ERC-20 BIG tokens will be exchan
 At this stage, the issue algorithm will be the same as in the first stage.
 
 ### Roadmap
-Today: BIGemission smart contract on the Ethereum blockchain.
+Today: BIGemission smart contract on the Ethereum blockchain.<br>
 Condition: -.
 
-Tomorrow: BIGemission smart contract on the Ethereum blockchain and BIG wallet with possibility to buy and sell goods and services.
+Tomorrow: BIGemission smart contract on the Ethereum blockchain and BIG wallet with possibility to buy and sell goods and services.<br>
 Condition: 1,000 eth in the BIGemission smart-contract.
 
-Future: BIG blockchain implementation, creation of the foundation for the development and promotion of the project.
+Future: BIG blockchain implementation, creation of the foundation for the development and promotion of the project.<br>
 Condition: 50,000 eth.
 
 ### Conclusion
@@ -145,22 +145,22 @@ The BIG protocol was originally conceived as an enhanced version of the crypto c
 The concept of unconditional basic income, implemented in the BIG protocol, gives the platform a unique potential. BIG is an open general-purpose protocol, and we believe that it is very well suited for use as a fundamental layer for the concept of unconditional basic income.
 
 ### References
-1. "Improving Social Security in Canada Guaranteed Annual Income: A Supplementary Paper". Government of Canada. 1994.
-2. "History of Basic Income". Basic Income Earth Network (BIEN). Archived from the original on 21 June 2008.
-3. Universal Basic Income: A Review, Social Science Research Network (SSRN).
-4. Marangos, John (2003). "Social Dividend versus Basic Income Guarantee in Market Socialism". International Journal of Political Economy. 34 (3). JSTOR 40470892.
-5. Arneson, Richard J. (April 1992). Is Socialism Dead? A Comment on Market Socialism and Basic Income Capitalism. 102. Ethics. pp. 485–511. JSTOR 2381836.
-6. van Trier, Walter (1 April 1989). "Who framed social dividend? A tale of the unexpected". University of Antwerp, Faculty of Applied Economics. Retrieved 28 July 2016.
-7. McKay, Ailsa (2001). "Rethinking Work and Income Maintenance Policy: Promoting Gender Equality Through a Citizens' Basic Income". Feminist Economics. 7 (1): 97–118. doi:10.1080/13545700010022721.
+1. ["Improving Social Security in Canada Guaranteed Annual Income: A Supplementary Paper"](http://www.canadiansocialresearch.net/ssrgai.htm). Government of Canada. 1994.
+2. ["History of Basic Income"](https://web.archive.org/web/20080621140909/http://www.basicincome.org/bien/aboutbasicincome.html). Basic Income Earth Network (BIEN). Archived from the original on 21 June 2008.
+3. [Universal Basic Income: A Review](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3013634), Social Science Research Network (SSRN).
+4. Marangos, John (2003). "Social Dividend versus Basic Income Guarantee in Market Socialism". International Journal of Political Economy. 34 (3). [JSTOR 40470892](https://www.jstor.org/stable/40470892?seq=1#page_scan_tab_contents).
+5. Arneson, Richard J. (April 1992). Is Socialism Dead? A Comment on Market Socialism and Basic Income Capitalism. 102. Ethics. pp. 485–511. [JSTOR 2381836](https://www.jstor.org/stable/2381836?seq=1#page_scan_tab_contents).
+6. van Trier, Walter (1 April 1989). ["Who framed social dividend? A tale of the unexpected"](https://econpapers.repec.org/paper/antsesowp/1989006.htm). University of Antwerp, Faculty of Applied Economics. Retrieved 28 July 2016.
+7. McKay, Ailsa (2001). "Rethinking Work and Income Maintenance Policy: Promoting Gender Equality Through a Citizens' Basic Income". Feminist Economics. 7 (1): 97–118. doi:[10.1080/13545700010022721](http://www.tandfonline.com/doi/abs/10.1080/13545700010022721).
 8. Ralph Nader Radio Hour, KPFK 90.7 FM, Los Angeles, California. Aired Saturday, June 4th, 2016.
 9. Jimmy Dore Show, KPFK 90.7 FM, Los Angeles, California, Aired Friday, April 10th, 2017.
-10. http://www.basicincome.org/wp-content/uploads/2016/05/EU_Basic-Income-Poll_Results.pdf
-11. https://en.wikipedia.org/wiki/Utopia
-12. «Sighing for paradise to come», The Economist, 4 June 2016
-13. Unconditional basic income: experiments and practice.
+10. [http://www.basicincome.org/wp-content/uploads/2016/05/EU_Basic-Income-Poll_Results.pdf](http://www.basicincome.org/wp-content/uploads/2016/05/EU_Basic-Income-Poll_Results.pdf)
+11. [https://en.wikipedia.org/wiki/Utopia](https://en.wikipedia.org/wiki/Utopia)
+12. [«Sighing for paradise to come»](https://www.economist.com/news/briefing/21699910-arguments-state-stipend-payable-all-citizens-are-being-heard-more-widely-sighing), The Economist, 4 June 2016
+13. [Unconditional basic income: experiments and practice](http://www.vestifinance.ru/articles/81501).
 14. Honkanen, Pertti. Soininvaara, Osmo. Ylikarhi, Ville: Perustulo. Kohti toimivaa perusturvaa. Helsinki: Vihreä Sivistysliitto ry, 2007.
-15. GrundeinkommenImBundestag.blogspot.com.
-16. Banken erfinden Geld aus Luft // 13.10.2010
+15. [GrundeinkommenImBundestag.blogspot.com](http://grundeinkommenimbundestag.blogspot.com/).
+16. [Banken erfinden Geld aus Luft](http://derstandard.at/1285200656759/derStandardat-Interview-Banken-erfinden-Geld-aus-Luft) // 13.10.2010
 
 
 **Disclaimer:** This draft of the BIG technical white paper is published solely for information purposes. BIG does not guarantee the accuracy or conclusions made in this document, and this document is provided "as is". BIG does not guarantee the accuracy of the conclusions made in this paper, issues it "as is", without warranties of completeness of coverage and explicit or implicit guarantee of the conditions listed (but not limited to): (i) commercial suitability, possibility of specific use, naming or non-compliance rights); (ii) the absence of errors in the text, the possibility of using for a specific purpose; and (iii) non-infringement of rights of third parties by the contents of this paper . BIG and any affiliated entities waive any liabilities and possible damages that may arise from the use, mention or reliance on the information contained in this paper, as well as any advice on the possibility of such consequences. In no event shall BIG or its affiliates be liable to any persons or organizations for any damage, loss, liability, cost or expense of any kind, whether direct or indirect, consequential, compensatory, incidental, factual, exemplary, or the costs incurred due to justification or work planning on the basis of this white paper or any content of this document, including without limitation, any loss of business, income, profit, data, accessibility, goodwill or other intangible losses.
